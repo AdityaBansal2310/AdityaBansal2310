@@ -1,4 +1,4 @@
-# Hey Devs! This is Aditya 👋
+# Hey Devs! This is Aditya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 
 Here are some ideas to get you started:
