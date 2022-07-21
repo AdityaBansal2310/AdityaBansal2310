@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android Development through Kotlin.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently getting my hands on DSA using C++
 - ⚡ Fun fact: "How much do you love me?",she asked.
                "You are Semicolon to my life statement", I replied back....
 
