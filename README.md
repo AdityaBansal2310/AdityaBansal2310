@@ -14,3 +14,8 @@
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaBansal2310&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaBansal2310&theme=dark)](https://git.io/streak-stats)
 [![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=AdityaBansal2310&theme=xcode)](https://github.com/AdityaBansal2310/github-readme-activity-graph)
+<hr>
+
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
