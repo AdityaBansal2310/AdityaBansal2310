@@ -1,6 +1,5 @@
 # Hey Developers! This is Aditya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
-
 - 🔭 I’m currently working on Android Development through Kotlin.
 - 🌱 I’m currently getting my hands on DSA using C++
 
@@ -13,3 +12,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaBansal2310&theme=dark)](https://git.io/streak-stats)
 [![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=AdityaBansal2310&theme=xcode)](https://github.com/AdityaBansal2310/github-readme-activity-graph)
 ![snake gif](https://github.com/AdityaBansal2310/AdityaBansal2310/blob/output/github-contribution-grid-snake.gif)
+
+ 
