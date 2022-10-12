@@ -1,3 +1,4 @@
+<h1 align="center">Opensource for the win 💚</h1>
 # Hey Developers! This is Aditya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
 - 🔭 I’m currently working on Android Development through Kotlin.
