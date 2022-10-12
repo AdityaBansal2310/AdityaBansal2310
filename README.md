@@ -13,4 +13,6 @@
 [![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=AdityaBansal2310&theme=xcode)](https://github.com/AdityaBansal2310/github-readme-activity-graph)
 ![snake gif](https://github.com/AdityaBansal2310/AdityaBansal2310/blob/output/github-contribution-grid-snake.gif)
 
+![](https://komarev.com/ghpvc/?username=AdityaBansal2310)
+
  
