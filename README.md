@@ -1,4 +1,6 @@
-<h1 align="center">Open Source for the win 💚</h1>
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Open-Source-For-The-Win-💚"/>
+</p>
 
 # Hey Developers! This is Aditya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
