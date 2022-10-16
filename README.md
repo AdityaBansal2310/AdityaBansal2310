@@ -5,7 +5,7 @@
 # Hey Developers! This is Aditya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
 - 🔭 I’m currently working on Android Development through Kotlin.
-- 🌱 I’m currently getting my hands on DSA using C++
+- 🌱 I’m currently getting my hands on DSA using C++ 
 
 # 🗣️ I can speak:
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
