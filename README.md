@@ -4,7 +4,7 @@
 
 # Hey Developers! This is Aditya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
-- 🔭 I’m currently working on Android Development through Kotlin.
+- 🔭 I’m currently learning iOS Development through Swift
 - 🌱 I’m currently getting my hands on DSA using C++ 
 
 # 🗣️ I can speak:
