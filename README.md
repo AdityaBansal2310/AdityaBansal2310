@@ -20,10 +20,6 @@
 <h3 align="left"> 📈 Some of my Github Stats: </h3>
 
 <p align= "center">
-<a href="http://www.github.com/AdityaBansal2310"><img src="https://github-readme-stats.vercel.app/api?username=AdityaBansal2310&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AdityaBansal2310's GitHub stats" /></a>
-</p>
-
-<p align= "center">
 <a href="http://www.github.com/AdityaBansal2310"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaBansal2310&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
